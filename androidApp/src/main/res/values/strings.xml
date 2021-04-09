@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calcular Factorial</string>
+    <string name="verificar">Verificar</string>
+    <string name="ingresarNumero">Ingresar Numero</string>
+    <string name="button">Verificar</string>
+    <string name="factorial">Factorial</string>
+    <string name="digite_un_numero">Digite un numero</string>
+    <string name="btn">Calcular</string>
+    <string name="txt">Calcular Factorial</string>
+
+
+
+</resources>
